@@ -46,4 +46,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 
 About Me
-Hi there! I'm Tony Yang. I’m an new graduate currently working my way into the Analyst field.
+👋 Hi there 👋, I’m Tony Yang currently a recent graduate passionate about data and technology, currently building projects to strengthen my skills and showcase my journey into the Analyst field. I enjoy turning data into insights and creating solutions that solve real problems.
+
+I’m actively looking for opportunities to grow as an Analyst while contributing to meaningful projects. Check out my repositories to see what I’ve been working on!
